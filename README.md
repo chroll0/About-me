@@ -20,3 +20,4 @@ src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c8
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=chroll0&theme=nightowl&hide_border=true&card_width=500&type=png&background=001E28)]
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=DenverCoder1)](https://git.io/streak-stats)
