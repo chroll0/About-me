@@ -18,6 +18,4 @@ src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c8
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chroll0&layout=pie&bg_color=001e28&theme=nightowl&hide_border=true)](https://github.com/chroll0/github-readme-stats)                                ![chroll0's GitHub stats](https://github-readme-stats.vercel.app/api?username=chroll0&show_icons=true&bg_color=001e28&theme=nightowl&hide_border=true)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=chroll0&theme=nightowl&hide_border=true&card_width=500&type=png&background=001E28)]
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=DenverCoder1)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=chroll0&theme=nightowl&hide_border=true&type=png)](https://git.io/streak-stats)
