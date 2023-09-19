@@ -2,7 +2,7 @@
 <h3 align="center">Front End Developer From Georgia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chroll0&label=Profile%20views&color=0e75b6&style=flat" alt="chroll0" /> </p>
-<img align="right" alt="Coding" width="500" src="https://www.lambdatest.com/resources/images/news24.gif">
+<img align="right" alt="Coding" width="450" src="https://www.lambdatest.com/resources/images/news24.gif">
 
 - 📫 How to reach me **sabantadze@gmail.com**
 - 👨‍💻 Portfolio *https://chroll0.github.io/My-Portfolio/*
