@@ -16,13 +16,13 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
     <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"> 
-        <img src="https://skillicons.dev/icons?i=css" alt="html" />
+        <img src="https://skillicons.dev/icons?i=html" alt="html" />
     </a>
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
         <img src="https://skillicons.dev/icons?i=css" alt="css" />
     </a>
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-        <img src="https://skillicons.dev/icons?i=css" alt="css" />
+    <a href="https://www.w3schools.com/javascript/" target="_blank" rel="noreferrer"> 
+        <img src="https://skillicons.dev/icons?i=javascript" alt="javascript" />
     </a>
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
         <img src="https://skillicons.dev/icons?i=css" alt="css" />
