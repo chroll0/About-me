@@ -24,8 +24,14 @@
     <a href="https://www.w3schools.com/javascript/" target="_blank" rel="noreferrer"> 
         <img src="https://skillicons.dev/icons?i=javascript" alt="javascript" />
     </a>
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-        <img src="https://skillicons.dev/icons?i=css" alt="css" />
+    <a href="https://react.dev/" target="_blank" rel="noreferrer"> 
+        <img src="https://skillicons.dev/icons?i=react" alt="react" />
+    </a>
+    <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
+        <img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" />
+    </a>
+    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
+        <img src="https://skillicons.dev/icons?i=typescript" alt="typescript" />
     </a>
     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
         <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" />
