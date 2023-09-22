@@ -33,6 +33,9 @@
     <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
         <img src="https://skillicons.dev/icons?i=typescript" alt="typescript" />
     </a>
+    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+        <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" />
+    </a>
     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
         <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" />
     </a>
