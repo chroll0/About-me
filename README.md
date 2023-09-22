@@ -39,11 +39,17 @@
     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
         <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" />
     </a>
-    <a href="" target="_blank" rel="noreferrer">
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
         <img src="https://skillicons.dev/icons?i=git" alt="git" />
     </a>
     <a href="https://github.com/" target="_blank" rel="noreferrer">
         <img src="https://skillicons.dev/icons?i=github" alt="github" />
+    </a>
+    <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+        <img src="https://skillicons.dev/icons?i=figma" alt="figma" />
+    </a>
+    <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer">
+        <img src="https://skillicons.dev/icons?i=photoshop" alt="photoshop" />
     </a>
     
 </p>
