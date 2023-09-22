@@ -1,4 +1,4 @@
-<h1 align="center" style="color:#c691e9">Greetings 👋, I'm Saba Antadze</h1>
+<h1 align="center" style="color: green">Greetings 👋, I'm Saba Antadze</h1>
 <h3 align="center">Front End Developer From Georgia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chroll0&label=Profile%20views&color=0e75b6&style=flat" alt="chroll0" /> </p>
