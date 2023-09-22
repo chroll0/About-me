@@ -4,14 +4,15 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chroll0&label=Profile%20views&color=0e75b6&style=flat" alt="chroll0" /> </p>
 <img align="right" alt="Coding" width="350" src="https://www.lambdatest.com/resources/images/news24.gif">
 
-- 📫 How to reach me **sabantadze@gmail.com**
-- 👨‍💻 Portfolio *https://chroll0.github.io/My-Portfolio/*
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/saba antadze" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saba antadze" height="30" width="40" /></a>
 <a href="https://fb.com/saba antadzesaba antadze" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="saba antadze" height="30" width="40" /></a>
 </p>
+
+- 📫 How to reach me **sabantadze@gmail.com**
+- 👨‍💻 Portfolio *https://chroll0.github.io/My-Portfolio/*
+
 <br/>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
