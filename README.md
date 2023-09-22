@@ -39,6 +39,12 @@
     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
         <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" />
     </a>
+    <a href="" target="_blank" rel="noreferrer">
+        <img src="https://skillicons.dev/icons?i=git" alt="git" />
+    </a>
+    <a href="https://github.com/" target="_blank" rel="noreferrer">
+        <img src="https://skillicons.dev/icons?i=github" alt="github" />
+    </a>
     
 </p>
 
