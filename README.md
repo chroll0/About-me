@@ -8,7 +8,7 @@
 
 📫 Email **sabantadze@gmail.com**
 
-👨‍💻 Portfolio *https://chroll0.github.io/My-Portfolio/*
+👨‍💻 Portfolio *https://saba-antadze-3d-portfolio.netlify.app/*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
