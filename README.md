@@ -1,14 +1,12 @@
-<div><h1 align="center" color=001e28>Greetings 👋, I'm Saba Antadze</h1>
+<div><h1 align="center">Greetings 👋, I'm Saba Antadze</h1>
 <h3 align="center">Front End Developer From Georgia</h3>
 
 <div width="100%"
-<div align="left"> <img width="10%" src="https://komarev.com/ghpvc/?username=chroll0&label=Profile%20views&color=001e28&style=flat" alt="chroll0"/></div>
+<div align="left"> <img width="15%" src="https://komarev.com/ghpvc/?username=chroll0&label=Profile%20views&color=001e28&style=flat" alt="chroll0"/></div>
 </div>
-
-<img align="right" alt="Coding" width="80%" src="https://www.lambdatest.com/resources/images/news24.gif">
+<img align="center" alt="Coding" width="80%" src="https://www.lambdatest.com/resources/images/news24.gif">
 
 <br/>
-
 <div>
 📫 Email **sabantadze@gmail.com**
 
