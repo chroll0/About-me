@@ -3,7 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/&label=Profile%views&style=flat" alt="views"/></p>
 
-![image title](https://rushter.com/?username=chroll0/counter.svg)
+![Profile Views](https://rushter.com/ghpvc/?username=chroll0&label=Profile%20views&color=001e28&style=flat)
+![image title](https://rushter.com/username=chroll0/counter.svg)
 
 📫 Email: sabantadze@gmail.com
 <br/>
