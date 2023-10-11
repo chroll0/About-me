@@ -3,7 +3,7 @@
  
 <div width="100%">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chroll0&label=Profile%20views&color=001e28&style=flat" alt="chroll0" width="25%"/> </p>
-<img align="right" alt="Coding" width="70%" src="https://www.lambdatest.com/resources/images/news24.gif">
+<img align="right" alt="Coding" width="100%" src="https://www.lambdatest.com/resources/images/news24.gif">
 <div/>
 
 <br/>
