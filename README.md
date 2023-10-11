@@ -3,14 +3,13 @@
     <h3 align="center">Front End Developer From Georgia</h3>
 </div>
 <br/>
-<div>
-    <img align="left" width="50px" src="https://komarev.com/ghpvc/?username=chroll0&label=Profile%20views&color=001e28&style=flat" alt="chroll0"/>
-    <img align="right" alt="Coding" width="350px" src="https://www.lambdatest.com/resources/images/news24.gif">
-</div>
+
+![Profile Views](https://komarev.com/ghpvc/?username=chroll0&label=Profile%20views&color=001e28&style=flat)
+
+![Coding](https://www.lambdatest.com/resources/images/news24.gif)
+
 <br/>
-
 📫 Email: sabantadze@gmail.com
-
 👨‍💻 Portfolio: [saba-antadze-3d-portfolio.netlify.app](https://saba-antadze-3d-portfolio.netlify.app)
 
 
