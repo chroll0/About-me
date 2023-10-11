@@ -1,16 +1,13 @@
-<div>
-    <h1 align="center">Greetings 👋, I'm Saba Antadze</h1>
-    <h3 align="center">Front End Developer From Georgia</h3>
-</div>
+<h1 align="center">Greetings 👋, I'm Saba Antadze</h1>
+<h3 align="center">Front End Developer From Georgia</h3>
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=chroll0&label=Profile%20views&color=001e28&style=flat)
-
-![Coding](https://www.lambdatest.com/resources/images/news24.gif)
+![Profile Views](https://komarev.com/ghpvc/?username=chroll0&label=Profile%20views&color=001e28&style=flat) ![Coding](https://www.lambdatest.com/resources/images/news24.gif)
 
 <br/>
+
 📫 Email: sabantadze@gmail.com
-👨‍💻 Portfolio: [saba-antadze-3d-portfolio.netlify.app](https://saba-antadze-3d-portfolio.netlify.app)
+👨‍💻 Portfolio: *https://saba-antadze-3d-portfolio.netlify.app*
 
 
 <h3 align="left">Connect with me:</h3>
