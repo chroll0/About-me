@@ -1,4 +1,4 @@
-<div><h1 align="center" color=001e28 theme=nightowl>Greetings 👋, I'm Saba Antadze</h1>
+<div><h1>Greetings 👋, I'm Saba Antadze</h1>
 <h3 align="center">Front End Developer From Georgia</h3>
 
 <div width="100%"
