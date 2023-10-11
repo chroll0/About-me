@@ -4,15 +4,13 @@
 </div>
 <br/>
 <div>
-    <img align="left" src="https://komarev.com/ghpvc/?username=chroll0&label=Profile%20views&color=001e28&style=flat" alt="chroll0"/>
+    <img align="left" width="50px" src="https://komarev.com/ghpvc/?username=chroll0&label=Profile%20views&color=001e28&style=flat" alt="chroll0"/>
     <img align="right" alt="Coding" width="350px" src="https://www.lambdatest.com/resources/images/news24.gif">
 </div>
-
 <br/>
 <div>
-📫 Email **sabantadze@gmail.com**
-
-👨‍💻 Portfolio *https://saba-antadze-3d-portfolio.netlify.app/*
+    📫 Email *sabantadze@gmail.com*
+    👨‍💻 Portfolio *https://saba-antadze-3d-portfolio.netlify.app/*
 </div>
 
 <h3 align="left">Connect with me:</h3>
