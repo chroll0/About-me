@@ -8,10 +8,11 @@
     <img align="right" alt="Coding" width="350px" src="https://www.lambdatest.com/resources/images/news24.gif">
 </div>
 <br/>
-<div>
-    📫 Email *sabantadze@gmail.com*
-    👨‍💻 Portfolio *https://saba-antadze-3d-portfolio.netlify.app/*
-</div>
+
+📫 Email: sabantadze@gmail.com
+
+👨‍💻 Portfolio: [saba-antadze-3d-portfolio.netlify.app](https://saba-antadze-3d-portfolio.netlify.app)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
