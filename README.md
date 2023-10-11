@@ -8,7 +8,7 @@
 <img align="right" alt="Coding" width="80%" src="https://www.lambdatest.com/resources/images/news24.gif">
 
 <br/>
-
+<div>
 📫 Email **sabantadze@gmail.com**
 
 👨‍💻 Portfolio *https://saba-antadze-3d-portfolio.netlify.app/*
@@ -18,6 +18,7 @@
 <a href="https://linkedin.com/in/saba antadze" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saba antadze" height="30" width="40" /></a>
 <a href="https://fb.com/saba antadzesaba antadze" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="saba antadze" height="30" width="40" /></a>
 </p>
+</div>
 
 <br/>
 <h3 align="left">Languages and Tools:</h3>
