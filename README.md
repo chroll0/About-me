@@ -6,9 +6,9 @@
 
 <br/>
 
-📫 Email: sabantadze@gmail.com
+<h3>📫 Email: sabantadze@gmail.com</h3> 
 <br/>
-👨‍💻 Portfolio: *https://saba-antadze-3d-portfolio.netlify.app*
+<h3>👨‍💻 Portfolio: *https://saba-antadze-3d-portfolio.netlify.app*</h3>
 
 
 <h3 align="left">Connect with me:</h3>
