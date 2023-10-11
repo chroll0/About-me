@@ -1,14 +1,11 @@
 <h1 align="center">Greetings 👋, I'm Saba Antadze</h1>
 <h3 align="center">Front End Developer From Georgia</h3>
 <br/>
-
 <img src="https://www.lambdatest.com/resources/images/news24.gif" alt="Coding" width="450" />
-
 <br/>
-
-<h3>📫 Email: sabantadze@gmail.com</h3> 
-<h3>👨‍💻 Portfolio: *https://saba-antadze-3d-portfolio.netlify.app*</h3>
-
+📫 Email: sabantadze@gmail.com
+<br/>
+👨‍💻 Portfolio: *https://saba-antadze-3d-portfolio.netlify.app*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
