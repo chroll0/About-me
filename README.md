@@ -4,8 +4,8 @@
 </div>
 <br/>
 <div>
-    <img align="left" width="15%" src="https://komarev.com/ghpvc/?username=chroll0&label=Profile%20views&color=001e28&style=flat" alt="chroll0"/>
-    <img align="right" alt="Coding" width="300px" src="https://www.lambdatest.com/resources/images/news24.gif">
+    <img align="left" src="https://komarev.com/ghpvc/?username=chroll0&label=Profile%20views&color=001e28&style=flat" alt="chroll0"/>
+    <img align="right" alt="Coding" width="350px" src="https://www.lambdatest.com/resources/images/news24.gif">
 </div>
 
 <br/>
