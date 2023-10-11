@@ -1,7 +1,7 @@
 <h1 align="center">Greetings 👋, I'm Saba Antadze</h1>
 <h3 align="center">Front End Developer From Georgia</h3>
 <br/>
-<img src="https://www.lambdatest.com/resources/images/news24.gif" alt="Coding" width="450" />
+<img src="https://komarev.com/ghpvc/?username=chroll0&label=Profile%20views" alt="Profile Views" />
 <br/>
 📫 Email: sabantadze@gmail.com
 <br/>
@@ -12,7 +12,7 @@
 <a href="https://www.linkedin.com/in/saba-antadze-296966264/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saba antadze" height="30" width="40" /></a>
 <a href="https://fb.com/sabaantadzesabaantadze" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="saba antadze" height="30" width="40" /></a>
 </p>
-
+<img src="https://www.lambdatest.com/resources/images/news24.gif" alt="Coding" width="450" />
 <br/>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
