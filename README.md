@@ -2,9 +2,7 @@
 <h3 align="center">Front End Developer From Georgia</h3>
 
 
-![Profile Views](https://komarev.com/ghpvc/?username=chroll0&label=Profile%20views&style=flat)
-
-📫 Email: sabantadze@gmail.com
+![Profile Views](https://komarev.com/ghpvc/?username=chroll0&label=Profile%20views&style=flat) 📫 Email: sabantadze@gmail.com
 <br/>
 👨‍💻 Portfolio: https://saba-antadze-3d-portfolio.netlify.app
 
