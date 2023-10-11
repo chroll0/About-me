@@ -1,8 +1,8 @@
 <h1 align="center">Greetings 👋, I'm Saba Antadze</h1>
 <h3 align="center">Front End Developer From Georgia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chroll0&label=Profile%20views&color=0e75b6&style=flat" alt="chroll0" /> </p>
-<img align="right" alt="Coding" width="350" src="https://www.lambdatest.com/resources/images/news24.gif">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=chroll0&label=Profile%20views&color=001e28&style=flat" alt="chroll0" /> </p>
+<img align="right" alt="Coding" width="70%" src="https://www.lambdatest.com/resources/images/news24.gif">
 
 <br/>
 
