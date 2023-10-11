@@ -7,7 +7,6 @@
 <br/>
 
 <h3>📫 Email: sabantadze@gmail.com</h3> 
-<br/>
 <h3>👨‍💻 Portfolio: *https://saba-antadze-3d-portfolio.netlify.app*</h3>
 
 
