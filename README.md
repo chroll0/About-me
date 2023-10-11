@@ -59,6 +59,7 @@
         <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" />
     </a>
 </p>
+<br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chroll0&layout=pie&bg_color=001e28&theme=nightowl&hide_border=true)](https://github.com/chroll0/github-readme-stats)                                ![chroll0's GitHub stats](https://github-readme-stats.vercel.app/api?username=chroll0&show_icons=true&bg_color=001e28&theme=nightowl&hide_border=true)
 [![GitHub Streak](https://streak-stats.demolab.com?user=chroll0&theme=nightowl&hide_border=true&type=png)](https://git.io/streak-stats) 
