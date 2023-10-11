@@ -1,17 +1,11 @@
 <div align="center">
     <h1>Greetings 👋, I'm Saba Antadze</h1>
     <h3>Front End Developer From Georgia</h3>
-    
     <img src="https://komarev.com/ghpvc/?username=chroll0&label=Profile%20views&color=001e28&style=flat" alt="chroll0" width="15%" />
-    
     <img alt="Coding" src="https://www.lambdatest.com/resources/images/news24.gif" width="80%" />
-    
     <br/>
-    
     📫 Email: *sabantadze@gmail.com*
-    
     👨‍💻 Portfolio: [https://saba-antadze-3d-portfolio.netlify.app/](https://saba-antadze-3d-portfolio.netlify.app/)
-    
     <h3>Connect with me:</h3>
     <p>
         <a href="https://linkedin.com/in/saba-antadze" target="_blank"><img src="LINKEDIN_ICON_URL" alt="LinkedIn" height="30" width="40" /></a>
