@@ -2,7 +2,7 @@
 <h3 align="center">Front End Developer From Georgia</h3>
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=chroll0&label=Profile%20views&style=flat" alt="Profile Views" width="100%" /> <img src="https://www.lambdatest.com/resources/images/news24.gif" alt="Coding" width="450" />
+<img src="https://komarev.com/ghpvc/?username=chroll0&label=Profile%20views&style=flat" alt="Profile Views" width="30px" /> <img src="https://www.lambdatest.com/resources/images/news24.gif" alt="Coding" width="450" />
 
 <br/>
 
