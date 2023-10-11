@@ -1,4 +1,4 @@
-<h1 align="center" style="color:red">Greetings 👋, I'm Saba Antadze</h1>
+<span style="color:blue">**Greetings 👋, I'm Saba Antadze**</span>
 <h3 align="center">Front End Developer From Georgia</h3>
 
 <div width="100%"
