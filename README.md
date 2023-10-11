@@ -1,9 +1,7 @@
 <h1 align="center">Greetings 👋, I'm Saba Antadze</h1>
 <h3 align="center">Front End Developer From Georgia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chroll0&label=Profile%20views&color=001e28&style=flat-square" alt="Views"/>
-</p>
-<p align="right"></p>
+<img src="https://komarev.com/ghpvc/?username=chroll0&label=Profile%20views&color=001e28&style=flat-square" alt="Views"/>
 
 📫 Email: sabantadze@gmail.com
 <br/>
