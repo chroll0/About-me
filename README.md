@@ -13,7 +13,6 @@
 <a href="https://fb.com/sabaantadzesabaantadze" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="saba antadze" height="30" width="40" /></a>
 </p>
 <img src="https://www.lambdatest.com/resources/images/news24.gif" alt="Coding" width="450" />
-<br/>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
     <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"> 
