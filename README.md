@@ -1,9 +1,9 @@
 <h1 align="center">Greetings 👋, I'm Saba Antadze</h1>
 <h3 align="center">Front End Developer From Georgia</h3>
 
-![](https://komarev.com/ghpvc/?username=chroll0&color=001e28&style=flat-square&width=100)
+![](https://komarev.com/ghpvc/?username=chroll0&color=001e28&style=flat-square)
+[![GitHub Views](https://komarev.com/ghpvc/?username=chroll0&color=FAC151)][1]
 
-<br/>
 📫 Email: sabantadze@gmail.com
 <br/>
 👨‍💻 Portfolio: https://saba-antadze-3d-portfolio.netlify.app
