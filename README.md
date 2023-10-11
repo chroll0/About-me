@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chroll0&label=Profile%views&style=flat" alt="views"/></p>
 
+![image title](https://rushter.com/counter.svg)
+
 📫 Email: sabantadze@gmail.com
 <br/>
 👨‍💻 Portfolio: https://saba-antadze-3d-portfolio.netlify.app
