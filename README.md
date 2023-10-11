@@ -1,18 +1,26 @@
-<div align="center">
-    <h1>Greetings 👋, I'm Saba Antadze</h1>
-    <h3>Front End Developer From Georgia</h3>
-    <img src="https://komarev.com/ghpvc/?username=chroll0&label=Profile%20views&color=001e28&style=flat" alt="chroll0" width="15%" />
-    <img alt="Coding" src="https://www.lambdatest.com/resources/images/news24.gif" width="80%" />
-    <br/>
-    📫 Email: *sabantadze@gmail.com*
-    👨‍💻 Portfolio: [https://saba-antadze-3d-portfolio.netlify.app/](https://saba-antadze-3d-portfolio.netlify.app/)
-    <h3>Connect with me:</h3>
-    <p>
-        <a href="https://linkedin.com/in/saba-antadze" target="_blank"><img src="LINKEDIN_ICON_URL" alt="LinkedIn" height="30" width="40" /></a>
-        <a href="https://facebook.com/saba-antadze" target="_blank"><img src="FACEBOOK_ICON_URL" alt="Facebook" height="30" width="40" /></a>
-    </p>
-<h3 align="left">Languages and Tools:</h3>
+<h1>Greetings 👋, I'm Saba Antadze</h1>
+<h3 align="center">Front End Developer From Georgia</h3>
 
+<div width="100%"
+<div align="left"> <img width="15%" src="https://komarev.com/ghpvc/?username=chroll0&label=Profile%20views&color=001e28&style=flat" alt="chroll0"/></div>
+</div>
+<img align="center" alt="Coding" width="80%" src="https://www.lambdatest.com/resources/images/news24.gif">
+
+<br/>
+<div>
+📫 Email **sabantadze@gmail.com**
+
+👨‍💻 Portfolio *https://saba-antadze-3d-portfolio.netlify.app/*
+</div>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/saba antadze" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saba antadze" height="30" width="40" /></a>
+<a href="https://fb.com/saba antadzesaba antadze" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="saba antadze" height="30" width="40" /></a>
+</p>
+
+<br/>
+<h3 align="left">Languages and Tools:</h3>
 <p align="left">
     <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"> 
         <img src="https://skillicons.dev/icons?i=html" alt="html" />
@@ -57,8 +65,6 @@
         <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" />
     </a>
 </p>
-</div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chroll0&layout=pie&bg_color=001e28&theme=nightowl&hide_border=true)](https://github.com/chroll0/github-readme-stats)                                ![chroll0's GitHub stats](https://github-readme-stats.vercel.app/api?username=chroll0&show_icons=true&bg_color=001e28&theme=nightowl&hide_border=true)
 [![GitHub Streak](https://streak-stats.demolab.com?user=chroll0&theme=nightowl&hide_border=true&type=png)](https://git.io/streak-stats)
-</div>
