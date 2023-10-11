@@ -1,5 +1,6 @@
 <h1 align="center">Greetings 👋, I'm Saba Antadze</h1>
 <h3 align="center">Front End Developer From Georgia</h3>
+<br/>
 
 📫 Email: sabantadze@gmail.com
 <br/>
